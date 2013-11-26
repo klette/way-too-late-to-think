@@ -1,0 +1,5 @@
+/home/klette/work/iterate/jersey/examples/server-async/src/main/java/org/glassfish/jersey/examples/server/async/App.java
+/home/klette/work/iterate/jersey/examples/server-async/src/main/java/org/glassfish/jersey/examples/server/async/BlockingPostChatResource.java
+/home/klette/work/iterate/jersey/examples/server-async/src/main/java/org/glassfish/jersey/examples/server/async/LongRunningAsyncOperationResource.java
+/home/klette/work/iterate/jersey/examples/server-async/src/main/java/org/glassfish/jersey/examples/server/async/FireAndForgetChatResource.java
+/home/klette/work/iterate/jersey/examples/server-async/src/main/java/org/glassfish/jersey/examples/server/async/SimpleLongRunningResource.java

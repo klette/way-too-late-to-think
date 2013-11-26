@@ -1,0 +1,10 @@
+org/glassfish/jersey/examples/server/async/LongRunningAsyncOperationResource.class
+org/glassfish/jersey/examples/server/async/FireAndForgetChatResource$1.class
+org/glassfish/jersey/examples/server/async/BlockingPostChatResource$1.class
+org/glassfish/jersey/examples/server/async/FireAndForgetChatResource$2.class
+org/glassfish/jersey/examples/server/async/SimpleLongRunningResource.class
+org/glassfish/jersey/examples/server/async/App.class
+org/glassfish/jersey/examples/server/async/BlockingPostChatResource.class
+org/glassfish/jersey/examples/server/async/FireAndForgetChatResource.class
+org/glassfish/jersey/examples/server/async/BlockingPostChatResource$2.class
+org/glassfish/jersey/examples/server/async/LongRunningAsyncOperationResource$1.class
